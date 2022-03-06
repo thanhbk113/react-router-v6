@@ -18,6 +18,8 @@ const LazyAbout = React.lazy(() => import('./components/About'))
 
 
 function App() {
+   //add1
+
   return (
     <AuthProvider>
       <Navbar />
